@@ -4,14 +4,14 @@
     "author": "MB Digital Innovation",
     "author_homepage": "https://mbdigitalinnovation.ch",
     "homepage": "https://mbdigitalinnovation.ch",
-    "version": "2.1.0",
-    "download_url": "https://raw.githubusercontent.com/Federicob88/mb-accessibility-updates/main/releases/mb-accessibility-2.1.0.zip",
+    "version": "2.1.1",
+    "download_url": "https://raw.githubusercontent.com/Federicob88/mb-accessibility-updates/main/releases/mb-accessibility-2.1.1.zip",
     "requires": "6.0",
     "tested": "6.7",
     "requires_php": "7.4",
     "last_updated": "2026-05-07",
     "sections": {
         "description": "Widget di accessibilità per WordPress con screen reader integrato, modalità di contrasto, regolazione testo, pausa animazioni e molto altro. Sviluppato da MB Digital Innovation.",
-        "changelog": "<h4>2.1.0</h4><ul><li>Dichiarazione di accessibilità: shortcode [mba_dichiarazione] con layout centrato, badge conformità, tabella criteri WCAG mitigati dal plugin</li><li>Creazione automatica pagina dichiarazione dall'area amministrazione</li><li>Nuove impostazioni: organizzazione, URL sito, stato conformità, metodo valutazione, date revisione</li><li>Traduzione italiana completa (131 stringhe)</li><li>Pagina impostazioni in 6 tab: Licenza, Widget, Navigazione, Funzionalità, Guida Lettura, Aggiornamenti</li><li>Tab Dichiarazione dedicato nel pannello admin</li></ul><h4>2.0.19</h4><ul><li>Pagina impostazioni riorganizzata in 6 tab</li><li>Traduzione italiana completa</li></ul><h4>2.0.18</h4><ul><li>Sistema doppio canale aggiornamenti: stabile e beta</li><li>Canale beta attivabile via wp-config.php</li></ul><h4>2.0.13</h4><ul><li>Aggiunge icone preset: arancione, rosso, rosa, blu, verde</li></ul><h4>2.0.11</h4><ul><li>Fix: risoluzione automatica del target dello skip link su qualsiasi tema</li></ul>"
+        "changelog": "<h4>2.1.1</h4><ul><li>Fix critico: il salvataggio della dichiarazione non azzera più la licenza e le altre impostazioni</li></ul><h4>2.1.0</h4><ul><li>Dichiarazione di accessibilità: shortcode [mba_dichiarazione] con layout centrato, badge conformità, tabella criteri WCAG mitigati dal plugin</li><li>Creazione automatica pagina dichiarazione dall'area amministrazione</li><li>Nuove impostazioni: organizzazione, URL sito, stato conformità, metodo valutazione, date revisione</li><li>Traduzione italiana completa (131 stringhe)</li></ul>"
     }
 }
