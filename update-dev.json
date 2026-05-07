@@ -4,14 +4,14 @@
     "author": "MB Digital Innovation",
     "author_homepage": "https://mbdigitalinnovation.ch",
     "homepage": "https://mbdigitalinnovation.ch",
-    "version": "2.0.20",
-    "download_url": "https://raw.githubusercontent.com/Federicob88/mb-accessibility-updates/main/releases/mb-accessibility-2.0.20.zip",
+    "version": "2.0.21",
+    "download_url": "https://raw.githubusercontent.com/Federicob88/mb-accessibility-updates/main/releases/mb-accessibility-2.0.21.zip",
     "requires": "6.0",
     "tested": "6.7",
     "requires_php": "7.4",
     "last_updated": "2026-05-07",
     "sections": {
         "description": "Widget di accessibilità per WordPress con screen reader integrato, modalità di contrasto, regolazione testo, pausa animazioni e molto altro. Sviluppato da MB Digital Innovation.",
-        "changelog": "<h4>2.0.20 (beta)</h4><ul><li>Nuovo tab Dichiarazione nelle impostazioni</li><li>Shortcode [mba_dichiarazione] per la pagina della dichiarazione di accessibilità</li><li>Pulsante per creare/aggiornare automaticamente la pagina WP</li></ul><h4>2.0.19</h4><ul><li>Pagina impostazioni riorganizzata in 6 tab</li><li>Traduzione italiana completa</li></ul>"
+        "changelog": "<h4>2.0.21 (beta)</h4><ul><li>Dichiarazione di accessibilità: layout grafico completamente ridisegnato</li><li>Nuova sezione \"Misure compensative\" con tabella criteri WCAG mitigati dal plugin</li><li>Metodo di valutazione: Google Lighthouse</li><li>Link AgID per procedura di ricorso</li></ul><h4>2.0.20 (beta)</h4><ul><li>Nuovo tab Dichiarazione nelle impostazioni</li><li>Shortcode [mba_dichiarazione]</li></ul>"
     }
 }
