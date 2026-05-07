@@ -4,14 +4,14 @@
     "author": "MB Digital Innovation",
     "author_homepage": "https://mbdigitalinnovation.ch",
     "homepage": "https://mbdigitalinnovation.ch",
-    "version": "2.0.19",
-    "download_url": "https://raw.githubusercontent.com/Federicob88/mb-accessibility-updates/main/releases/mb-accessibility-2.0.19.zip",
+    "version": "2.0.20",
+    "download_url": "https://raw.githubusercontent.com/Federicob88/mb-accessibility-updates/main/releases/mb-accessibility-2.0.20.zip",
     "requires": "6.0",
     "tested": "6.7",
     "requires_php": "7.4",
     "last_updated": "2026-05-07",
     "sections": {
         "description": "Widget di accessibilità per WordPress con screen reader integrato, modalità di contrasto, regolazione testo, pausa animazioni e molto altro. Sviluppato da MB Digital Innovation.",
-        "changelog": "<h4>2.0.19 (beta)</h4><ul><li>Pagina impostazioni riorganizzata in 6 tab: Licenza, Widget, Navigazione, Funzionalità, Guida Lettura, Aggiornamenti</li><li>Tab attivo persistito in localStorage</li><li>Ritorno automatico al tab Aggiornamenti dopo il controllo update</li></ul><h4>2.0.18 (beta)</h4><ul><li>Sistema doppio canale aggiornamenti: stabile e beta</li><li>Canale beta attivabile via wp-config.php</li></ul><h4>2.0.13</h4><ul><li>Aggiunge icone preset: arancione, rosso, rosa, blu, verde</li></ul><h4>2.0.11</h4><ul><li>Fix: risoluzione automatica del target dello skip link su qualsiasi tema</li><li>Fix: validazione ruoli ARIA per il target dello skip link</li><li>Fix: CSS skip link con coordinate sempre valide per audit Lighthouse</li></ul>"
+        "changelog": "<h4>2.0.20 (beta)</h4><ul><li>Nuovo tab Dichiarazione nelle impostazioni</li><li>Shortcode [mba_dichiarazione] per la pagina della dichiarazione di accessibilità</li><li>Pulsante per creare/aggiornare automaticamente la pagina WP</li></ul><h4>2.0.19</h4><ul><li>Pagina impostazioni riorganizzata in 6 tab</li><li>Traduzione italiana completa</li></ul>"
     }
 }
