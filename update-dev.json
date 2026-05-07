@@ -4,14 +4,14 @@
     "author": "MB Digital Innovation",
     "author_homepage": "https://mbdigitalinnovation.ch",
     "homepage": "https://mbdigitalinnovation.ch",
-    "version": "2.0.22",
-    "download_url": "https://raw.githubusercontent.com/Federicob88/mb-accessibility-updates/main/releases/mb-accessibility-2.0.22.zip",
+    "version": "2.1.0",
+    "download_url": "https://raw.githubusercontent.com/Federicob88/mb-accessibility-updates/main/releases/mb-accessibility-2.1.0.zip",
     "requires": "6.0",
     "tested": "6.7",
     "requires_php": "7.4",
     "last_updated": "2026-05-07",
     "sections": {
         "description": "Widget di accessibilità per WordPress con screen reader integrato, modalità di contrasto, regolazione testo, pausa animazioni e molto altro. Sviluppato da MB Digital Innovation.",
-        "changelog": "<h4>2.0.22 (beta)</h4><ul><li>Dichiarazione: layout centrato con padding responsive su tutti i lati</li></ul><h4>2.0.21 (beta)</h4><ul><li>Dichiarazione: layout grafico ridisegnato, tabella misure compensative</li></ul>"
+        "changelog": "<h4>2.1.0</h4><ul><li>Dichiarazione di accessibilità: shortcode [mba_dichiarazione] con layout centrato, badge conformità, tabella criteri WCAG mitigati dal plugin</li><li>Creazione automatica pagina dichiarazione dall'area amministrazione</li><li>Nuove impostazioni: organizzazione, URL sito, stato conformità, metodo valutazione, date revisione</li><li>Traduzione italiana completa (131 stringhe)</li><li>Pagina impostazioni in 6 tab: Licenza, Widget, Navigazione, Funzionalità, Guida Lettura, Aggiornamenti</li><li>Tab Dichiarazione dedicato nel pannello admin</li></ul><h4>2.0.22 (beta)</h4><ul><li>Dichiarazione: layout centrato con padding responsive su tutti i lati</li></ul><h4>2.0.21 (beta)</h4><ul><li>Dichiarazione: layout grafico ridisegnato, tabella misure compensative</li></ul>"
     }
 }
