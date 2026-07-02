@@ -4,14 +4,14 @@
     "author": "MB Digital Innovation",
     "author_homepage": "https://mbdigitalinnovation.ch",
     "homepage": "https://mbdigitalinnovation.ch",
-    "version": "2.1.2",
-    "download_url": "https://raw.githubusercontent.com/Federicob88/mb-accessibility-updates/main/releases/mb-accessibility-2.1.2.zip",
+    "version": "2.2.0",
+    "download_url": "https://raw.githubusercontent.com/Federicob88/mb-accessibility-updates/main/releases/mb-accessibility-2.2.0.zip",
     "requires": "6.0",
     "tested": "6.7",
     "requires_php": "7.4",
-    "last_updated": "2026-05-07",
+    "last_updated": "2026-07-02",
     "sections": {
         "description": "Widget di accessibilità per WordPress con screen reader integrato, modalità di contrasto, regolazione testo, pausa animazioni e molto altro. Sviluppato da MB Digital Innovation.",
-        "changelog": "<h4>2.1.2</h4><ul><li>UX: il campo URL dichiarazione di accessibilità nel tab Navigazione è ora in sola lettura e viene popolato automaticamente alla creazione/aggiornamento della pagina</li></ul><h4>2.1.1</h4><ul><li>Fix critico: il salvataggio della dichiarazione non azzera più la licenza e le altre impostazioni</li></ul><h4>2.1.0</h4><ul><li>Dichiarazione di accessibilità: shortcode [mba_dichiarazione], layout centrato, badge conformità, tabella criteri WCAG mitigati</li><li>Creazione automatica pagina dichiarazione</li><li>Traduzione italiana completa (131 stringhe)</li></ul>"
+        "changelog": "<h4>2.2.0</h4><ul><li>Nuovo: supporto multilingua WPML per la dichiarazione di accessibilità</li><li>Criteri non rispettati, URL contatti e onere separati per ogni lingua attiva</li><li>Shortcode [mba_dichiarazione] rileva automaticamente la lingua WPML corrente</li><li>Pagina dichiarazione creabile per ogni lingua con collegamento automatico WPML</li><li>Backward compat: siti senza WPML non vedono alcun cambiamento</li></ul><h4>2.1.2</h4><ul><li>URL dichiarazione auto-popolato alla creazione pagina</li></ul><h4>2.1.1</h4><ul><li>Fix critico: salvataggio dichiarazione non azzera più la licenza</li></ul><h4>2.1.0</h4><ul><li>Dichiarazione di accessibilità con shortcode, layout e tabella criteri WCAG</li></ul>"
     }
 }
